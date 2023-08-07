@@ -1,1 +1,47 @@
-
+[
+   {
+      "title":"Greating",
+      "pictureUrl":"https://github.com/NicBout83/kotlin-mood/blob/main/resources/Kodee_Assets_Digital_Kodee-greeting.svg",
+      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+   },
+   {
+      "title":"In love",
+      "pictureUrl":"https://github.com/NicBout83/kotlin-mood/blob/main/resources/Kodee_Assets_Digital_Kodee-in-love.svg",
+      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+   },
+   {
+      "title":"Jumping",
+      "pictureUrl":"https://github.com/NicBout83/kotlin-mood/blob/main/resources/Kodee_Assets_Digital_Kodee-jumping.svg",
+      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+   },
+   {
+      "title":"Leaning",
+      "pictureUrl":"https://github.com/NicBout83/kotlin-mood/blob/main/resources/Kodee_Assets_Digital_Kodee-leaning.svg",
+      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+   },
+   {
+      "title":"Naughty",
+      "pictureUrl":"https://github.com/NicBout83/kotlin-mood/blob/main/resources/Kodee_Assets_Digital_Kodee-naughty.svg",
+      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+   },
+   {
+      "title":"Sharing",
+      "pictureUrl":"https://github.com/NicBout83/kotlin-mood/blob/main/resources/Kodee_Assets_Digital_Kodee-sharing.svg",
+      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+   },
+   {
+      "title":"Sitting",
+      "pictureUrl":"https://github.com/NicBout83/kotlin-mood/blob/main/resources/Kodee_Assets_Digital_Kodee-sitting.svg",
+      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+   },
+   {
+      "title":"Waving",
+      "pictureUrl":"https://github.com/NicBout83/kotlin-mood/blob/main/resources/Kodee_Assets_Digital_Kodee-waving.svg",
+      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+   },
+   {
+      "title":"Winter",
+      "pictureUrl":"https://github.com/NicBout83/kotlin-mood/blob/main/resources/Kodee_Assets_Digital_Kodee-winter.svg",
+      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+   }
+]
