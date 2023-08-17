@@ -2,46 +2,41 @@
    {
       "title":"Greating",
       "pictureUrl":"https://raw.githubusercontent.com/NicBout83/kotlin-mood/main/resources/Kodee_Assets_Digital_Kodee-greeting.png",
-      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+      "description":"You are in a grateful mood. You know how to appreciate the work of your fellow developers and appreciate what they bring to you every day."
    },
    {
       "title":"In love",
       "pictureUrl":"https://raw.githubusercontent.com/NicBout83/kotlin-mood/main/resources/Kodee_Assets_Digital_Kodee-in-love.png",
-      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+      "description":"You are in the mood for love. It even looks like you're about to bite into the apple :-)"
    },
    {
       "title":"Jumping",
       "pictureUrl":"https://raw.githubusercontent.com/NicBout83/kotlin-mood/main/resources/Kodee_Assets_Digital_Kodee-jumping.png",
-      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+      "description":"You are in a happy mood! Nothing seems to be able to stop you from jumping all over the place!"
    },
    {
       "title":"Leaning",
       "pictureUrl":"https://raw.githubusercontent.com/NicBout83/kotlin-mood/main/resources/Kodee_Assets_Digital_Kodee-leaning.png",
-      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+      "description":"It looks like you're in the mood to lean on something."
    },
    {
       "title":"Naughty",
       "pictureUrl":"https://raw.githubusercontent.com/NicBout83/kotlin-mood/main/resources/Kodee_Assets_Digital_Kodee-naughty.png",
-      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+      "description":"You're in a naughty mood. Your colleagues should think twice before speaking to you today."
    },
    {
       "title":"Sharing",
       "pictureUrl":"https://raw.githubusercontent.com/NicBout83/kotlin-mood/main/resources/Kodee_Assets_Digital_Kodee-sharing.png",
-      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
-   },
-   {
-      "title":"Sitting",
-      "pictureUrl":"https://raw.githubusercontent.com/NicBout83/kotlin-mood/main/resources/Kodee_Assets_Digital_Kodee-sitting.png",
-      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+      "description":"Vous êtes d'humeur à tout partager aujourd'hui, y compris votre dernier très cher smartphone!"
    },
    {
       "title":"Waving",
       "pictureUrl":"https://raw.githubusercontent.com/NicBout83/kotlin-mood/main/resources/Kodee_Assets_Digital_Kodee-waving.png",
-      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+      "description":"You seem to be very waving today. Take a break!"
    },
    {
       "title":"Winter",
       "pictureUrl":"https://raw.githubusercontent.com/NicBout83/kotlin-mood/main/resources/Kodee_Assets_Digital_Kodee-winter.png",
-      "description":"Description etcfefegdgdgdgegre gfdsgdg gegfdgfdgdfgfef gegfeg gefgefgerregregre"
+      "description":"You are in the mood to go ice skating today. It speaks for itself, doesn't it?"
    }
 ]
